@@ -1,0 +1,114 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Óra rend</title>
+</head>
+<body>
+    <table border="5" cellspacing="0" align="center">
+        <!--<caption>Timetable</caption>-->
+        <tbody><tr>
+            <td align="center" height="50" width="100"><br>
+                <b>Nap</b><br>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>1.<br>8-8:45</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>2.<br>8:55-9:40</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>3.<br>9:50-10:35</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>4.<br>10:40-11:25</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>5.<br>11:30-12:10</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>6.<br>12:15-13:25</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>7.<br>13:30-14:20</b>
+            </td>
+            <td align="center" height="50" width="100">
+                <b>8.<br>14:25-15</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Hétfő</b></td>
+            <td align="center" height="50">Komplex</td>
+            <td align="center" height="50">Magy</td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">ang</td>
+            <td align="center" height="50">Dk</td>
+            <td align="center" height="50">Dk</td>
+           
+            
+            <td colspan="3" align="center" height="50"></td>
+            <td align="center" height="50">Phy</td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Kedd</b>
+            </td>
+         
+            
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">IKT</td>
+            <td align="center" height="50">OF</td>
+            <td align="center" height="50">Komplex</td>
+            <td align="center" height="50">Magy</td>
+            <td align="center" height="50">Ang</td>
+            <td align="center" height="50">Palap</td>
+            <td align="center" height="50">Palap</td>
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Szerda</b>
+            </td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">Test</td>
+            <td align="center" height="50">Komplex</td>
+            <td align="center" height="50">Magy</td>
+            <td align="center" height="50">Töri</td>
+            <td align="center" height="50">Ang</td>
+            <td align="center" height="50">IKT</td>
+           
+            
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Csütörtök</b>
+            </td>
+            <td align="center" height="50">IKT</td>
+            <td align="center" height="50">IKT</td>
+            <td align="center" height="50">IKT</td>
+            <td align="center" height="50">Töri</td>
+            <td align="center" height="50">Magy</td>
+            <td align="center" height="50">Tesi</td>
+            <td align="center" height="50">Mat</td>
+           
+           
+        </tr>
+        <tr>
+            <td align="center" height="50">
+                <b>Péntek</b>
+            </td>
+       
+            
+            <td align="center" height="50">tesi</td>
+            <td align="center" height="50">Tesi</td>
+            <td align="center" height="50">Mat</td>
+            <td align="center" height="50">Töri</td>
+            <td align="center" height="50">Ang</td>
+            <td align="center" height="50">Magy</td>
+            
+        </tr>
+       
+    </tbody></table>
+    
+
+</body></html>
