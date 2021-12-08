@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ok</title>
+</head>
+<body>
+<ul style="background-color:chartreuse;">
+<li>saláta</li>
+<li>kenyér</li>
+<li>vaj</li>
+<li>sonka</li>
+<li>ketchup</li>
+</ul>
+<ol style="background-color:blue;">
+<li>Megkenem a kenyeret</li>
+<li>Rárakom a sonkát</li>
+<li>rárakom a salátát </li>
+<li>nyomok rá ketchupot</li>
+<li>kész</li>
+</ol>
+<ol start="5">Rárakom a vajat</ol>
+<dl>
+<dt>kifejező</dt>
+<dd>Kifejezés definíciója</dd>
+</dl>
+</body>
+</html>
